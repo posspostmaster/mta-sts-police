@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: police-stsaviour-je.mail.protection.outlook.com
+mx: police-stsaviour-je.mail.protection.outlook.com
+max_age: 604800
