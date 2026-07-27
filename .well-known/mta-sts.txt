@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: police-stsaviour-je.d-v1.mx.microsoft
 mx: police-stsaviour-je.d-v1.mx.microsoft
 max_age: 604800
